@@ -17,6 +17,9 @@
   <a href="https://github.com/Tanishq22A">
     <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github"/>
   </a>
+  <a href="https://tanishqarora.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center"><em>
